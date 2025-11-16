@@ -283,8 +283,9 @@ Update `API_BASE_URL` in `frontend/src/services/api.js` to your deployed backend
 This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
+MANI TEJA 
 
-Created as a complete MERN stack application example.
+Created  a complete MERN stack application example.
 
 ---
 
