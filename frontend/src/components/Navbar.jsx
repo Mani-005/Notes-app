@@ -6,9 +6,7 @@ const Navbar = () => {
           <h1 className="text-2xl font-bold text-indigo-600">
             📝 Notes App
           </h1>
-          <p className="text-gray-600 text-sm">
-            MERN Stack Application
-          </p>
+
         </div>
       </div>
     </nav>
